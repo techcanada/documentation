@@ -1,0 +1,20 @@
+Download the vscode or any other code editor:
+Vscode link:
+https://code.visualstudio.com/Download
+
+Download git
+https://git-scm.com/downloads
+
+Install both (next, next, finish)
+
+Check our repositories on the link below:
+https://github.com/techcanada?tab=repositories
+
+To clone the repos, use the command below:
+git clone RepoUrl
+
+to clone the command repo, use the command below:
+git clone https://github.com/techcanada/commands.git
+
+After update the files, save the file locally and use the commands below to send the update to the repo:
+
