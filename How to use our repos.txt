@@ -7,6 +7,10 @@ https://git-scm.com/downloads
 
 Install both (next, next, finish)
 
+Open the vscode, terminal and setup your git with your information
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+
 Check our repositories on the link below:
 https://github.com/techcanada?tab=repositories
 
@@ -18,3 +22,12 @@ git clone https://github.com/techcanada/commands.git
 
 After update the files, save the file locally and use the commands below to send the update to the repo:
 
+On the terminal, access the updated file directory
+
+git status
+git add .
+git status
+git commit -m "Creating the file How to use our repos"
+git push origin main
+
+Git will ask you the credentials, you can use user/password or code.
